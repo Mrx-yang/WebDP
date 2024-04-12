@@ -1,0 +1,9 @@
+package com.xyy.service;
+
+import com.xyy.entity.UserInfo;
+import com.baomidou.mybatisplus.extension.service.IService;
+
+
+public interface IUserInfoService extends IService<UserInfo> {
+
+}
